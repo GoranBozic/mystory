@@ -1,0 +1,51 @@
+body{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+h1{
+	text-align: center;
+}
+
+nav{
+	text-align: center;
+}
+
+.story {
+	background-color: blue;
+	color: white;
+	border-color: white;
+	margin-top: 1%;
+	margin-bottom: 25px;
+	padding: 1%;
+	text-align:center;
+}
+
+.comment{
+	background-color: purple;
+	color: white;
+	border-color: white;
+	margin-top: 1%;
+	padding: 1%
+
+}
+
+.story_text{
+	font-size: 21px;
+	color: white;
+}
+
+.user{
+	color: white;
+}
+
+.comment_text {
+	font-size: 18px;
+}
+
+span {
+	float: right;
+	position: relative;
+}
